@@ -20,12 +20,3 @@ Put following record into smart.json and run 'mrt update'
   }
 }
 ```
-
-###issues:
-Javascript elements like dropdowns should be active by default. At the moment you can activate them in the template.rendered function like: 
-
-```javascript
-Template.hello.rendered = function(){
-	$('.ui.dropdown').dropdown();
-}
-```
