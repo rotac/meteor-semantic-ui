@@ -12,12 +12,14 @@ Semantic is a set of specifications for sharing UI elements between developers. 
 
 ##Install
 Put following record into smart.json and run 'mrt update'
+```javascript
 {
   "packages": {
     "router": {},
     "semantic-ui": {"git": "https://github.com/rotac/meteor-semantic-ui"}
   }
 }
+```
 
 ###issues:
 Javascript elements like dropdowns should be active by default. At the moment you can activate them in the template.rendered function like: 
