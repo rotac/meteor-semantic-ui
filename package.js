@@ -32,8 +32,4 @@ Package.on_use(function (api) {
   api.add_files(path.join(asset_path, 'images', 'loader-small-inverted.gif'), 'client');
   api.add_files(path.join(asset_path, 'images', 'loader-small.gif'), 'client');
 
-  // XXX this makes the paths to the icon sets absolute. it needs
-  // to be included _after_ the standard semantic css so
-  // that its styles take precedence.
-  api.add_files('semantic-override.css', 'client');
 });

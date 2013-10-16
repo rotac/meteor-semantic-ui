@@ -1,9 +1,9 @@
 {
   "name": "semantic-ui",
   "description": "Semantic UI packaged for meteor",
-  "homepage": "https://github.com/nooitaf/meteor-semantic-ui",
-  "author": "nooitaf (http://nooitaf.nl)",
-  "version": "0.0.4",
-  "git": "https://github.com/nooitaf/meteor-semantic-ui.git",
+  "homepage": "https://github.com/rotac/meteor-semantic-ui",
+  "author": "Tonda Crha based on work of nooitaf (http://nooitaf.nl)"
+  "version": "0.1.0",
+  "git": "https://github.com/rotac/meteor-semantic-ui.git",
   "packages": { }
 }
