@@ -18,7 +18,6 @@ Put following record into smart.json and run 'mrt update'
 ```javascript
 {
   "packages": {
-    "router": {},
     "semantic-ui": {"git": "https://github.com/rotac/meteor-semantic-ui"}
   }
 }
