@@ -1,7 +1,7 @@
 #Semantic UI package for meteor
 
 ## Current version of Semantic UI
-0.6.2
+0.6.3
 
 ##What is this?
 This is just a wrapper to use Semantic UI with meteor.
